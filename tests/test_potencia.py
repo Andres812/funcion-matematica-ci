@@ -8,7 +8,7 @@ from potencia import potencia
 
 # Caso correcto
 def test_potencia_correcta():
-    assert potencia(2, 3) == 9
+    assert potencia(2, 3) == 8
 
 
 # Caso límite
