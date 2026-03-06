@@ -8,3 +8,4 @@ def test_titulo_html():
         contenido = f.read()
 
     assert "Proyecto de Integración Continua" in contenido
+    
